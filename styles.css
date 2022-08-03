@@ -36,6 +36,10 @@ body{
     position: relative;
 }
 
+#navbar li:hover{
+    background-color: #eee;
+}
+
 header{
     margin: 10px;
     text-align: center;
